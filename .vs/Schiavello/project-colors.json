@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e6ed14e-ffe0-49ce-bc15-8a7440091ed3": {
+      "ProjectGuid": "2e6ed14e-ffe0-49ce-bc15-8a7440091ed3",
+      "DisplayName": "Schiavello.Web",
+      "ColorIndex": 0
+    },
+    "035a71de-2511-46c0-b16b-7685b03637d9": {
+      "ProjectGuid": "035a71de-2511-46c0-b16b-7685b03637d9",
+      "DisplayName": "Schiavello.Model",
+      "ColorIndex": 1
+    },
+    "d74823b7-0a13-4c92-bee6-62c2c2d49e5b": {
+      "ProjectGuid": "d74823b7-0a13-4c92-bee6-62c2c2d49e5b",
+      "DisplayName": "Schiavello.Configuration",
+      "ColorIndex": 2
+    },
+    "20b8e81c-9b89-4bd7-b635-cabb2237da15": {
+      "ProjectGuid": "20b8e81c-9b89-4bd7-b635-cabb2237da15",
+      "DisplayName": "Schiavello.Contracts",
+      "ColorIndex": 3
+    },
+    "f4a87127-2efc-4aa1-bd5f-858a01212067": {
+      "ProjectGuid": "f4a87127-2efc-4aa1-bd5f-858a01212067",
+      "DisplayName": "Schiavello.Data",
+      "ColorIndex": 4
+    },
+    "94a93213-3d80-44b8-ae64-ef1ae3eb14d8": {
+      "ProjectGuid": "94a93213-3d80-44b8-ae64-ef1ae3eb14d8",
+      "DisplayName": "Schiavello.Repository",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "919fd655-f067-4ba2-b932-d926e85dd6b4": {
+      "ProjectGuid": "919fd655-f067-4ba2-b932-d926e85dd6b4",
+      "DisplayName": "Script Documents",
+      "ColorIndex": 6
+    },
+    "30fde64b-d986-4830-b577-5eb7d94e10eb": {
+      "ProjectGuid": "30fde64b-d986-4830-b577-5eb7d94e10eb",
+      "DisplayName": "Schiavello.Web",
+      "ColorIndex": 7
+    },
+    "559adb56-0361-48dd-b61d-440d41aad2b3": {
+      "ProjectGuid": "559adb56-0361-48dd-b61d-440d41aad2b3",
+      "DisplayName": "Schiavello.Web",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

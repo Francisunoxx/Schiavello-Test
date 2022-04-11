@@ -1,0 +1,36 @@
+﻿@page "/fibonacci"
+<h3>Fibonacci @_fibonacci</h3>
+
+<button class="btn btn-info" @onclick="Increase">Increase</button>
+<button class="btn btn-info" @onclick="Decrease">Decrease</button>
+@code {
+
+    private int _fibonacci;
+    private int _counter;
+
+    private int RunFibonacci(int n)
+    {
+        if (n <= 1)
+        {
+            return n;
+        }
+        else
+        {
+            return RunFibonacci(n - 1) + RunFibonacci(n - 2);
+        }
+    }
+
+    private void Increase()
+    {
+        _counter++;
+        _fibonacci = RunFibonacci(_counter);
+        StateHasChanged();
+    }
+    
+    private void Decrease()
+    {
+        _counter--;
+        _fibonacci = RunFibonacci(_counter);
+        StateHasChanged();
+    }
+}

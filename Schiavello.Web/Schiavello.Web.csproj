@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Schiavello.Configuration\Schiavello.Configuration.csproj" />
+    <ProjectReference Include="..\Schiavello.Contracts\Schiavello.Contracts.csproj" />
+    <ProjectReference Include="..\Schiavello.Repository\Schiavello.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
